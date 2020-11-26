@@ -1,0 +1,14 @@
+{
+  "name": "lightbox-img-viewer",
+  "productName": "lightbox-img-viewer",
+  "identifier": "lightbox-img-viewer",
+  "description": "electron img viewer app",
+  "version": "0.0.1",
+  "author": "Bao Doan <doanxuanbaoz@gmail.com>",
+  "main": "background.js",
+  "dependencies": {
+    "configstore": "^1.4.0",
+    "fs-jetpack": "^0.7.0",
+    "jquery": "^2.1.4"
+  }
+}
